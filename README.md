@@ -1,1 +1,2 @@
-# Student Tracking Portal Alpha
+  HEAD
+# Student Management System (Unified Alpha & Beta Core)
